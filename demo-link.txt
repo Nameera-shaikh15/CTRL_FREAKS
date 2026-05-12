@@ -1,4 +1,4 @@
 Prototype Demonstration Video:
-https://youtu.be/CmMyyQmx6JA
+1. https://youtu.be/CmMyyQmx6JA
 
-https://www.figma.com/make/VGtVZ9Q9NlPYDUD8r3vmVU/CNG-Station-Decision-Assistant?t=RGeULNQoN3F2rWIU-1&preview-route=%2Flanguage
+ 2. https://www.figma.com/make/VGtVZ9Q9NlPYDUD8r3vmVU/CNG-Station-Decision-Assistant?t=RGeULNQoN3F2rWIU-1&preview-route=%2Flanguage
